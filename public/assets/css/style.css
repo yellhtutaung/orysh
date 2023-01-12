@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.theme-text-color{
+    color: white !important;
+}
+.theme-bg{
+    background-color: #5528FF !important;
+}
+
+
+/* WINDOW SCROLL */
+
+.custom-scroll-bar::-webkit-scrollbar-track
+{
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    border-radius: 10px;
+    background-color: black;
+
+}
+
+.custom-scroll-bar::-webkit-scrollbar
+{
+    width: 12px;
+    background-color: black;
+}
+
+.custom-scroll-bar::-webkit-scrollbar-thumb
+{
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+    background-color: #555;
+}
+
+body::-webkit-scrollbar-track
+{
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+    border-radius: 10px;
+    background-color: black;
+
+}
+
+body::-webkit-scrollbar
+{
+    width: 12px;
+    background-color: black;
+}
+
+body::-webkit-scrollbar-thumb
+{
+    border-radius: 10px;
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,.3);
+    background-color: #555;
+}
+
+/* WINDOW SCROLL */
+
+
+
+
